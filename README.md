@@ -1,7 +1,7 @@
-![Alt text](http://github.com/mandelbrot.png "Mandelbrot ejemplo")
+![Alt text](https://raw.githubusercontent.com/Dieg0x17/python-fractals/master/mandelbrot.png "Mandelbrot ejemplo")
 Fractales con python
 ===================
-Este sencillo script en python genera imágenes en formato png de los **conjuntos de Julia y de Mandelbrot. ** 
+Este sencillo script en python genera imágenes en formato png de los conjuntos de Julia y de Mandelbrot.  
 
 ----------
 
@@ -14,7 +14,7 @@ Puedes hacerte una idea del funcionamiento del script con el texto de ayuda.
 $ python fractales.py -h
 ```
 Creando el primer fractal.
-![Alt text](http://github.com/fractal.png "Julia ejemplo")
+![Alt text](https://raw.githubusercontent.com/Dieg0x17/python-fractals/master/fractal.png "Julia ejemplo")
 ```
 // Generar un fractal conjunto de julia de 512x512 px, colores por defecto.
 $ python fractales.py
